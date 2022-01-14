@@ -1,0 +1,14 @@
+C:\imersao_logica\Vetor\Vetor\bin\Debug\netcoreapp3.1\Vetor.exe
+C:\imersao_logica\Vetor\Vetor\bin\Debug\netcoreapp3.1\Vetor.deps.json
+C:\imersao_logica\Vetor\Vetor\bin\Debug\netcoreapp3.1\Vetor.runtimeconfig.json
+C:\imersao_logica\Vetor\Vetor\bin\Debug\netcoreapp3.1\Vetor.runtimeconfig.dev.json
+C:\imersao_logica\Vetor\Vetor\bin\Debug\netcoreapp3.1\Vetor.dll
+C:\imersao_logica\Vetor\Vetor\bin\Debug\netcoreapp3.1\Vetor.pdb
+C:\imersao_logica\Vetor\Vetor\obj\Debug\netcoreapp3.1\Vetor.csproj.AssemblyReference.cache
+C:\imersao_logica\Vetor\Vetor\obj\Debug\netcoreapp3.1\Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\imersao_logica\Vetor\Vetor\obj\Debug\netcoreapp3.1\Vetor.AssemblyInfoInputs.cache
+C:\imersao_logica\Vetor\Vetor\obj\Debug\netcoreapp3.1\Vetor.AssemblyInfo.cs
+C:\imersao_logica\Vetor\Vetor\obj\Debug\netcoreapp3.1\Vetor.csproj.CoreCompileInputs.cache
+C:\imersao_logica\Vetor\Vetor\obj\Debug\netcoreapp3.1\Vetor.dll
+C:\imersao_logica\Vetor\Vetor\obj\Debug\netcoreapp3.1\Vetor.pdb
+C:\imersao_logica\Vetor\Vetor\obj\Debug\netcoreapp3.1\Vetor.genruntimeconfig.cache
